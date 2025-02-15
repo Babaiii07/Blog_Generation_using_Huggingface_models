@@ -1,6 +1,7 @@
 sentence-transformers
 uvicorn
-ctransformers
-langchain
-python-box
+python-dotenv
 streamlit
+langchain-huggingface
+langchain
+langchain-community
